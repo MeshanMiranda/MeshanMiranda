@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Meshan Miranda</h1>
 <h3 align="center">Software Engineer - Undergraduate</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MeshanMiranda&label=Profile%20views&color=0e75b6&style=flat" alt="MeshanMiranda" /> </p>
-<a href="https://meshanmiranda.github.io/portfolio/" target="_blank" style="border: 2px solid #000; padding: 8px 12px; border-radius: 6px; text-decoration: none; color: black;">
-  View Portfolio
-</a>
+[🔗 View Portfolio](https://meshanmiranda.github.io/portfolio/)
+
 
 
 
