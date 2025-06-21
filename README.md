@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Meshan Miranda</h1>
 <h3 align="center">Software Engineer - Undergraduate</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MeshanMiranda&label=Profile%20views&color=0e75b6&style=flat" alt="MeshanMiranda" /> </p>
-<div>
-  <a href="https://mraddict.one" target="_blank">
-      <img
-        height="25"
-        alt="microsoft-outlook logo"
-        src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
-      />
-    </a>
-</div>
+<p align="center">
+  <a href="https://meshanmiranda.github.io/portfolio/" target="_blank">
+    <img
+      height="25"
+      alt="microsoft-outlook logo"
+      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+</p>
 
 
 <table align="center">
