@@ -5,7 +5,7 @@
 <div>
   <a href="https://mraddict.one" target="_blank">
       <img
-        height="35"
+        height="25"
         alt="microsoft-outlook logo"
         src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
       />
