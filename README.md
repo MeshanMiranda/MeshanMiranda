@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Meshan Miranda</h1>
 <h3 align="center">Software Engineer - Undergraduate</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MeshanMiranda&label=Profile%20views&color=0e75b6&style=flat" alt="MeshanMiranda" /> </p>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://meshanmiranda.github.io/portfolio/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IsratIJK/)  
+
+
 
 <table align="center">
 <tr border="none">
