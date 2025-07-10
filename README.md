@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **prashansamm200327@gmail.com**
+- 📫 How to reach me **meshanmiranda@gmail.com**
 
 </td>
 <td width="50%" align="center">
