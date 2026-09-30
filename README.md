@@ -1,29 +1,43 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+</p>
+
 <h1 align="center">Hi 👋, I'm Meshan Miranda</h1>
-<h3 align="center">Software Engineer - Undergraduate</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MeshanMiranda&label=Profile%20views&color=0e75b6&style=flat" alt="MeshanMiranda" /> </p>
+
+<h3 align="center">Software Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeshanMiranda&label=Profile%20views&color=0e75b6&style=flat" alt="MeshanMiranda" />
+</p>
+
 <p align="center">
   <a href="https://meshanmiranda.github.io/portfolio/" target="_blank">
     <img
       height="25"
-      alt="microsoft-outlook logo"
+      alt="Website"
       src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
 </p>
 
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-- 🌱 I’m currently learning **MERN**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT City Uni**
+* 💻 I’m a **Software Engineer** with experience in full-stack web and mobile application development.
 
-- 💬 Ask me about **Java**
+* 🎓 I’m a **Computer Science graduate** with a BSc (Hons) in Computer Science.
 
-- 📫 How to reach me **meshanmiranda@gmail.com**
+* 🌱 I’m currently working with **Java | Spring Boot | React | Flutter | NestJS**
+
+* 💬 Ask me about **Java, Spring Boot, React, Flutter, NestJS, and MySQL**
+
+* 📫 How to reach me **[meshanmiranda@gmail.com](mailto:meshanmiranda@gmail.com)**
+
+</td>
+</tr>
+</table>
+
 
 </td>
 <td width="50%" align="center">
