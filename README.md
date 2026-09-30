@@ -1,42 +1,38 @@
-<p align="center">
-  <img src="[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true)" width="100px" alt="About Me">
-</p>
-
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Meshan Miranda</h1>
-
-<h3 align="center">Software Engineer</h3>
-
+<h3 align="center">Associate Software Engineer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MeshanMiranda&label=Profile%20views&color=0e75b6&style=flat" alt="MeshanMiranda" /> </p>
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=MeshanMiranda&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=MeshanMiranda&label=Profile%20views&color=0e75b6&style=flat)" alt="MeshanMiranda" />
-</p>
-
-<p align="center">
-  <a href="[https://meshanmiranda.github.io/portfolio/](https://meshanmiranda.github.io/portfolio/)" target="_blank">
+  <a href="https://meshanmiranda.github.io/portfolio/" target="_blank">
     <img
       height="25"
-      alt="Website"
-      src="[https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge)"
+      alt="microsoft-outlook logo"
+      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" align="left" valign="middle">
-      <p>💻 I’m a <strong>Software Engineer</strong> with experience in full-stack web and mobile application development.</p>
-      <p>🎓 I’m a <strong>Computer Science graduate</strong> with a BSc (Hons) in Computer Science.</p>
-      <p>🌱 I’m currently working with <strong>Java | Spring Boot | React | Flutter | NestJS</strong></p>
-      <p>💬 Ask me about <strong>Java, Spring Boot, React, Flutter, NestJS, and MySQL</strong></p>
-      <p>📫 How to reach me: <strong><a href="mailto:meshanmiranda@gmail.com">meshanmiranda@gmail.com</a></strong></p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img
-        alt="Coding"
-        width="100%"
-        src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)"
-      />
-    </td>
-  </tr>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **Java | Flutter | Spring Boot**
+
+- 🧑‍🎓 I’m an graduated in BSc (Hons) in Computer Science at **SLIIT City Uni**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **meshanmiranda@gmail.com**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
 </table>
 
 ---
