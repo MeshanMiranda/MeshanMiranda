@@ -21,33 +21,35 @@
 </p>
 
 <table align="center">
-<tr border="none">
-<td width="50%" align="left">
+  <tr>
+    <td width="50%" align="left">
 
-* 💻 I’m a **Software Engineer** with experience in full-stack web and mobile application development.
+```
+  <p>💻 I’m a <strong>Software Engineer</strong> with experience in full-stack web and mobile application development.</p>
 
-* 🎓 I’m a **Computer Science graduate** with a BSc (Hons) in Computer Science.
+  <p>🎓 I’m a <strong>Computer Science graduate</strong> with a BSc (Hons) in Computer Science.</p>
 
-* 🌱 I’m currently working with **Java | Spring Boot | React | Flutter | NestJS**
+  <p>🌱 I’m currently working with <strong>Java | Spring Boot | React | Flutter | NestJS</strong></p>
 
-* 💬 Ask me about **Java, Spring Boot, React, Flutter, NestJS, and MySQL**
+  <p>💬 Ask me about <strong>Java, Spring Boot, React, Flutter, NestJS, and MySQL</strong></p>
 
-* 📫 How to reach me **[meshanmiranda@gmail.com](mailto:meshanmiranda@gmail.com)**
-
-</td>
-</tr>
-</table>
-
+  <p>📫 How to reach me <strong><a href="mailto:meshanmiranda@gmail.com">meshanmiranda@gmail.com</a></strong></p>
 
 </td>
+
 <td width="50%" align="center">
+  <img
+    align="center"
+    alt="Coding"
+    width="450"
+    src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
+  >
+</td>
+```
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
+  </tr>
 </table>
+
 
 ---
 
